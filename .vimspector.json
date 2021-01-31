@@ -1,0 +1,17 @@
+{
+    "configurations": {
+        "Run": {
+            "adapter": "debugpy",
+            "configuration": {
+                "type": "python",
+                "request": "launch",
+                "cwd": "${workspaceRoot}",
+                "python": "C:/Users/tomgo/AppData/Local/Programs/Python/Python39/python3.exe",
+                "stopOnEntry": true,
+                "program": "${file}",
+                "debugOptions": [],
+                "console": "externalTerminal"
+            }
+        }
+    }
+}
